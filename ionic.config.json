@@ -1,0 +1,8 @@
+{
+  "name": "Age Calculator",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "b2bc2816"
+}
